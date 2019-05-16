@@ -113,5 +113,5 @@ def play(board)
 end
 end
 
-display_board(board)
-# play(board)
+# display_board(board)
+play(board)
